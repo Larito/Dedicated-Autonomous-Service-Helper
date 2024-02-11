@@ -1,0 +1,625 @@
+class,sentence
+Bathroom,Lead me to the bathroom.
+Bathroom,Guide me to the restroom.
+Bathroom,Take me to the restroom.
+Bathroom,Help me find the bathroom.
+Bathroom,Direct me to the bathroom.
+Bathroom,"To the bathroom, please."
+Bathroom,I need the restroom.
+Bathroom,Guide me to the bathroom.
+Bathroom,Can you help me find the way to the bathroom?
+Bathroom,Show me the way to the restroom.
+Bathroom,Direct me to the toilet.
+Bathroom,Lead the way to the bathroom.
+Bathroom,Help me locate the restroom.
+Bathroom,Take me to the washroom.
+Bathroom,Take me to the bathroom.
+Bathroom,I require assistance to the bathroom.
+Bathroom,Lead me to the nearest restroom.
+Bathroom,Show me the path to the toilet.
+Bathroom,"I need to find the bathroom, can you assist?"
+Bathroom,"Bathroom, I need your guidance."
+Bathroom,Lead me to the nearest bathroom.
+Bathroom,Show me the way to the bathroom.
+Bathroom,I need to go to the bathroom.
+Bathroom,I need to go to the restroom.
+Bathroom,Can you help me find the way to the restroom?
+Bathroom,Can you help me find the way to the washroom?
+Bathroom,Can you help me find the way to the WC?
+Bathroom,I need to use the bathroom.
+Bathroom,I need to use the restroom.
+Bathroom,Direct me to the WC.
+Bathroom,Guide me to the washroom.
+Bathroom,"To the restroom, please."
+Bathroom,Assist me in finding the bathroom.
+Bathroom,"Could you help me find the bathroom, please?"
+Bathroom,Where is the closest restroom from my current location?
+Bathroom,Which way should I go to reach the restroom?
+Bathroom,Can you point me in the direction of the bathroom?
+Bathroom,Where can I find the washroom?
+Bathroom,Do you know the way to the bathroom from here?
+Bathroom,Can you guide me to the nearest restroom?
+Bathroom,Can you help me locate the closest bathroom?
+Bathroom,Do you know where I can find the restroom?
+Bathroom,"Could you direct me to the bathroom, please?"
+Bathroom,Can you assist me in finding the bathroom?
+Bathroom,Do you know the way to the nearest restroom?
+Bathroom,Where is the bathroom located?
+Bathroom,Could you guide me to the restroom?
+Bathroom,Bathroom please.
+Elevator,Lead me to the elevator.
+Elevator,Guide me to the lift.
+Elevator,Take me to the nearest elevator.
+Elevator,Assist me in finding the lift.
+Elevator,Direct me to the closest elevator.
+Elevator,"To the elevator, please."
+Elevator,"I need the lift, urgently."
+Elevator,Show me the way to the elevator.
+Elevator,Can you help me locate the nearest lift?
+Elevator,Help me find the way to the elevator.
+Elevator,Direct me to the nearest lift.
+Elevator,Lead the way to the closest elevator.
+Elevator,Show me the path to the lift.
+Elevator,"Take me to the elevator, if you can."
+Elevator,I need to use the nearest lift.
+Elevator,"Guide me to the elevator, please."
+Elevator,Can you help me find the closest lift?
+Elevator,Show me the way to the nearest elevator.
+Elevator,"Lead me to the lift, if you may."
+Elevator,I need assistance in finding the elevator.
+Elevator,Could you guide me to the lift?
+Elevator,Can you assist me in finding the elevator?
+Elevator,Do you know the way to the nearest lift?
+Elevator,Can you help me locate the closest elevator?
+Elevator,Do you know where I can find the elevator?
+Elevator,"Could you direct me to the elevator, please?"
+Elevator,"Could you help me find the elevator, please?"
+Elevator,Where is the closest elevator from my current location?
+Elevator,Elevator please.
+Classroom,Lead me to the classroom.
+Classroom,Guide me to the classroom.
+Classroom,Take me to the classroom.
+Classroom,Help me find the classroom.
+Classroom,Direct me to the classroom.
+Classroom,"To the classroom, please."
+Classroom,I need the classroom.
+Classroom,Guide me to the classroom.
+Classroom,Can you help me find the way to the classroom?
+Classroom,Show me the way to the classroom.
+Classroom,Direct me to the classroom.
+Classroom,Lead the way to the classroom.
+Classroom,Help me locate the classroom.
+Classroom,Take me to the classroom.
+Classroom,I require assistance to the classroom.
+Classroom,Lead me to the nearest classroom.
+Classroom,Show me the path to the classroom.
+Classroom,"I need to find the classroom, can you assist?"
+Classroom,"Classroom, I need your guidance."
+Classroom,Show me the way to the classroom.
+Classroom,I need to go to the classroom.
+Classroom,Can you help me find the way to the classroom?
+Classroom,I need to use the classroom.
+Classroom,Direct me to the classroom.
+Classroom,Guide me to the classroom.
+Classroom,"To the classroom, please."
+Classroom,Assist me in finding the classroom.
+Classroom,"Could you help me find the classroom, please?"
+Classroom,Where is the closest classroom from my current location?
+Classroom,Which way should I go to reach the classroom?
+Classroom,Can you point me in the direction of the classroom?
+Classroom,Where can I find the classroom?
+Classroom,Do you know the way to the classroom from here?
+Classroom,Do you know where I can find the classroom?
+Classroom,"Could you direct me to the classroom, please?"
+Classroom,Can you assist me in finding the classroom?
+Classroom,Where is the classroom located?
+Classroom,Could you guide me to the classroom?
+Classroom,Classroom please.
+Dean's office,Lead me to the dean's office.
+Dean's office,Guide me to the dean's office.
+Dean's office,Take me to the dean's office.
+Dean's office,Help me find the dean's office.
+Dean's office,Direct me to the dean's office.
+Dean's office,"To the dean's office, please."
+Dean's office,I need the dean's office.
+Dean's office,Can you help me find the way to the dean's office?
+Dean's office,Show me the way to the dean's office.
+Dean's office,Lead the way to the dean's office.
+Dean's office,Help me locate the dean's office.
+Dean's office,Take me to the dean's office.
+Dean's office,I require assistance to the dean's office.
+Dean's office,Lead me to the nearest dean's office.
+Dean's office,Show me the path to the dean's office.
+Dean's office,"Dean's office, I need your guidance."
+Dean's office,I need to go to the dean's office.
+Dean's office,Can you help me find the way to the dean's office?
+Dean's office,I need to use the dean's office.
+Dean's office,Direct me to the dean's office.
+Dean's office,Assist me in finding the dean's office.
+Dean's office,"Could you help me find the dean's office, please?"
+Dean's office,Where is the closest dean's office from my current location?
+Dean's office,Which way should I go to reach the dean's office?
+Dean's office,Can you point me in the direction of the dean's office?
+Dean's office,Where can I find the dean's office?
+Dean's office,Do you know the way to the dean's office from here?
+Dean's office,Dean's office please.
+Library,Lead me to the library.
+Library,Guide me to the library.
+Library,Take me to the library.
+Library,Help me find the library.
+Library,Direct me to the library.
+Library,"To the library, please."
+Library,I need the library.
+Library,Guide me to the library.
+Library,Can you help me find the way to the library?
+Library,Show me the way to the library.
+Library,Direct me to the library entrance.
+Library,Lead the way to the library.
+Library,Help me locate the library.
+Library,Take me to the library.
+Library,Take me to the library entrance.
+Library,I require assistance to the library.
+Library,Lead me to the nearest library.
+Library,Show me the path to the library.
+Library,"I need to find the library, can you assist?"
+Library,"Library, I need your guidance."
+Library,Lead me to the nearest library.
+Library,Show me the way to the library.
+Library,I need to go to the library.
+Library,I need to go to the library entrance.
+Library,Can you help me find the way to the library entrance?
+Library,Can you help me find the way to the library?
+Library,Can you help me find the way to the library door?
+Library,I need to use the library.
+Library,I need to use the library entrance.
+Library,Direct me to the library door.
+Library,Guide me to the library entrance.
+Library,"To the library, please."
+Library,Assist me in finding the library.
+Library,"Could you help me find the library, please?"
+Library,Where is the closest library from my current location?
+Library,Which way should I go to reach the library?
+Library,Can you point me in the direction of the library?
+Library,Where can I find the library entrance?
+Library,Do you know the way to the library from here?
+Library,Can you guide me to the nearest library?
+Library,Can you help me locate the closest library?
+Library,Do you know where I can find the library entrance?
+Library,"Could you direct me to the library, please?"
+Library,Can you assist me in finding the library?
+Library,Do you know the way to the nearest library?
+Library,Where is the library located?
+Library,Could you guide me to the library entrance?
+Library,Library please.
+Library,Where can I find the nearest library door?
+Library,Is there a library nearby?
+Starbucks,Lead me to Starbucks.
+Starbucks,Guide me to Starbucks.
+Starbucks,Take me to Starbucks.
+Starbucks,Help me find Starbucks.
+Starbucks,Direct me to Starbucks.
+Starbucks,"To Starbucks, please."
+Starbucks,I need Starbucks.
+Starbucks,Guide me to Starbucks.
+Starbucks,Can you help me find the way to Starbucks?
+Starbucks,Show me the way to Starbucks.
+Starbucks,Direct me to the Starbucks entrance.
+Starbucks,Lead the way to Starbucks.
+Starbucks,Help me locate Starbucks.
+Starbucks,Take me to Starbucks.
+Starbucks,Take me to the Starbucks entrance.
+Starbucks,I require assistance to Starbucks.
+Starbucks,Lead me to the nearest Starbucks.
+Starbucks,Show me the path to Starbucks.
+Starbucks,"I need to find Starbucks, can you assist?"
+Starbucks,"Starbucks, I need your guidance."
+Starbucks,Lead me to the nearest Starbucks.
+Starbucks,Show me the way to Starbucks.
+Starbucks,I need to go to Starbucks.
+Starbucks,I need to go to the Starbucks entrance.
+Starbucks,Can you help me find the way to the Starbucks entrance?
+Starbucks,Can you help me find the way to Starbucks?
+Starbucks,Can you help me find the way to the Starbucks door?
+Starbucks,I need to use Starbucks.
+Starbucks,I need to use the Starbucks entrance.
+Starbucks,Direct me to the Starbucks door.
+Starbucks,Guide me to the Starbucks entrance.
+Starbucks,"To Starbucks, please."
+Starbucks,Assist me in finding Starbucks.
+Starbucks,"Could you help me find Starbucks, please?"
+Starbucks,Where is the closest Starbucks from my current location?
+Starbucks,Which way should I go to reach Starbucks?
+Starbucks,Can you point me in the direction of Starbucks?
+Starbucks,Where can I find the Starbucks entrance?
+Starbucks,Do you know the way to Starbucks from here?
+Starbucks,Can you guide me to the nearest Starbucks?
+Starbucks,Can you help me locate the closest Starbucks?
+Starbucks,Do you know where I can find the Starbucks entrance?
+Starbucks,"Could you direct me to Starbucks, please?"
+Starbucks,Can you assist me in finding Starbucks?
+Starbucks,Do you know the way to the nearest Starbucks?
+Starbucks,Where is Starbucks located?
+Starbucks,Could you guide me to the Starbucks entrance?
+Starbucks,Starbucks please.
+Starbucks,Where can I find the nearest Starbucks door?
+Starbucks,Is there a Starbucks nearby?
+Dose,Lead me to Dose.
+Dose,Guide me to Dose.
+Dose,Take me to Dose.
+Dose,Help me find Dose.
+Dose,Direct me to Dose.
+Dose,"To Dose, please."
+Dose,I need Dose.
+Dose,Guide me to Dose.
+Dose,Can you help me find the way to Dose?
+Dose,Show me the way to Dose.
+Dose,Direct me to the Dose entrance.
+Dose,Lead the way to Dose.
+Dose,Help me locate Dose.
+Dose,Take me to Dose.
+Dose,Take me to the Dose entrance.
+Dose,I require assistance to Dose.
+Dose,Lead me to the nearest Dose.
+Dose,Show me the path to Dose.
+Dose,"I need to find Dose, can you assist?"
+Dose,"Dose, I need your guidance."
+Dose,Lead me to the nearest Dose.
+Dose,Show me the way to Dose.
+Dose,I need to go to Dose.
+Dose,I need to go to the Dose entrance.
+Dose,Can you help me find the way to the Dose entrance?
+Dose,Can you help me find the way to Dose?
+Dose,Can you help me find the way to the Dose door?
+Dose,I need to use Dose.
+Dose,I need to use the Dose entrance.
+Dose,Direct me to the Dose door.
+Dose,Guide me to the Dose entrance.
+Dose,"To Dose, please."
+Dose,Assist me in finding Dose.
+Dose,"Could you help me find Dose, please?"
+Dose,Where is the closest Dose from my current location?
+Dose,Which way should I go to reach Dose?
+Dose,Can you point me in the direction of Dose?
+Dose,Where can I find the Dose entrance?
+Dose,Do you know the way to Dose from here?
+Dose,Can you guide me to the nearest Dose?
+Dose,Can you help me locate the closest Dose?
+Dose,Do you know where I can find the Dose entrance?
+Dose,"Could you direct me to Dose, please?"
+Dose,Can you assist me in finding Dose?
+Dose,Do you know the way to the nearest Dose?
+Dose,Where is Dose located?
+Dose,Could you guide me to the Dose entrance?
+Dose,Dose please.
+Dose,Where can I find the nearest Dose?
+Dose,Is there a Dose nearby?
+Coffee shop,Where's the closest place I can get coffee?
+Coffee shop,Where's the nearest coffee shop?
+Coffee shop,Take me to the closest coffee shop.
+Coffee shop,Guide me to the nearest coffee shop.
+Coffee shop,What's the closest coffee shop from here?
+Coffee shop,Lead me to the nearest place to get coffee.
+Coffee shop,Can you direct me to the closest coffee shop?
+Coffee shop,"I'm looking for the nearest place for coffee, can you help?"
+Coffee shop,"To the closest coffee shop, please."
+Coffee shop,Help me find the coffee shop that's closest.
+Coffee shop,Show me the way to the closest coffee shop.
+Coffee shop,"I need to find the nearest coffee shop, can you assist?"
+Coffee shop,Where can I find the closest coffee shop from my current location?
+Coffee shop,Can you point me in the direction of the nearest coffee shop?
+Coffee shop,Can you guide me to the coffee shop that's closest?
+Coffee shop,Is there a coffee shop nearby?
+Coffee shop,What's the nearest spot to grab a cup of coffee?
+Coffee shop,Take me to the coffee shop that's closest.
+Coffee shop,Which way should I go to reach the closest coffee shop?
+Coffee shop,"Assist me in finding the closest coffee shop, please."
+Coffee shop,"Could you help me find the nearest coffee shop, please?"
+Coffee shop,Do you know where I can find the coffee shop that's closest?
+Coffee shop,"I'm in search of the closest coffee shop, where is it?"
+Coffee shop,Can you assist me in locating the closest coffee shop?
+Coffee shop,Do you know the way to the coffee shop that's nearest?
+Coffee shop,Lead me to the coffee shop that's closest.
+Coffee shop,Show me the path to the closest coffee shop.
+Coffee shop,I need to go to the coffee shop that's nearest.
+Coffee shop,"I need to go to the closest place for coffee, can you help?"
+Coffee shop,Can you help me find the way to the coffee shop that's closest?
+Jamoka,Where's Jamoka located?
+Jamoka,Take me to Jamoka's position.
+Jamoka,Guide me to the Jamoka spot.
+Jamoka,Lead me to Jamoka's place.
+Jamoka,"I'm looking for Jamoka, can you help?"
+Jamoka,Direct me to the Jamoka destination.
+Jamoka,What's the way to Jamoka?
+Jamoka,Show me the path to Jamoka's location.
+Jamoka,"To Jamoka, please."
+Jamoka,I need assistance to find Jamoka.
+Jamoka,Can you point me to Jamoka?
+Jamoka,Where can I find Jamoka around here?
+Jamoka,"Help me locate Jamoka, please."
+Jamoka,Lead the way to Jamoka.
+Jamoka,Can you guide me to Jamoka's spot?
+Jamoka,What's the direction to Jamoka?
+Jamoka,I require assistance to Jamoka's place.
+Jamoka,Show me the route to Jamoka.
+Jamoka,Take me to the Jamoka destination.
+Jamoka,Lead me to the closest Jamoka.
+Jamoka,"I need to reach Jamoka, can you assist?"
+Jamoka,"Jamoka, I need your guidance."
+Jamoka,Show me the way to Jamoka's position.
+Jamoka,What's the way to Jamoka's place?
+Jamoka,Can you help me find the way to Jamoka?
+Jamoka,Take me to Jamoka's spot.
+Jamoka,Guide me to Jamoka's location.
+Jamoka,Direct me to the nearest Jamoka.
+Jamoka,Help me find Jamoka.
+Jamoka,"To the closest Jamoka, please."
+Jamoka,Lead me to Jamoka's position.
+Jamoka,I need to go to Jamoka.
+Jamoka,Can you assist me in finding Jamoka?
+Jamoka,What's the route to Jamoka's place?
+Jamoka,Show me the path to Jamoka's spot.
+Jamoka,Lead me to the Jamoka destination.
+Jamoka,"I need Jamoka, can you guide me?"
+Jamoka,Take me to the closest Jamoka.
+Jamoka,Can you point me to Jamoka's location?
+Jamoka,What's the way to Jamoka's spot?
+Jamoka,Show me the route to Jamoka's place.
+Jamoka,"To Jamoka, please."
+Jamoka,I require assistance to Jamoka's position.
+Jamoka,Help me locate Jamoka.
+Jamoka,Guide me to the Jamoka spot.
+Jamoka,Lead me to Jamoka's place.
+Jamoka,Where's Jamoka situated?
+Jamoka,Take me to the nearest Jamoka.
+Jamoka,Direct me to Jamoka's position.
+Jamoka,Can you help me find the way to Jamoka?
+Segafredo,Where's Segafredo located?
+Segafredo,Take me to Segafredo's position.
+Segafredo,Guide me to the Segafredo spot.
+Segafredo,Lead me to Segafredo's place.
+Segafredo,"I'm looking for Segafredo, can you help?"
+Segafredo,Direct me to the Segafredo destination.
+Segafredo,What's the way to Segafredo?
+Segafredo,Show me the path to Segafredo's location.
+Segafredo,"To Segafredo, please."
+Segafredo,I need assistance to find Segafredo.
+Segafredo,Can you point me to Segafredo?
+Segafredo,Where can I find Segafredo around here?
+Segafredo,"Help me locate Segafredo, please."
+Segafredo,Lead the way to Segafredo.
+Segafredo,Can you guide me to Segafredo's spot?
+Segafredo,What's the direction to Segafredo?
+Segafredo,I require assistance to Segafredo's place.
+Segafredo,Show me the route to Segafredo.
+Segafredo,Take me to the Segafredo destination.
+Segafredo,Lead me to the closest Segafredo.
+Segafredo,"I need to reach Segafredo, can you assist?"
+Segafredo,"Segafredo, I need your guidance."
+Segafredo,Show me the way to Segafredo's position.
+Segafredo,What's the way to Segafredo's place?
+Segafredo,Can you help me find the way to Segafredo?
+Segafredo,Take me to Segafredo's spot.
+Segafredo,Guide me to Segafredo's location.
+Segafredo,Direct me to the nearest Segafredo.
+Segafredo,Help me find Segafredo.
+Segafredo,"To the closest Segafredo, please."
+Segafredo,Lead me to Segafredo's position.
+Segafredo,I need to go to Segafredo.
+Segafredo,Can you assist me in finding Segafredo?
+Segafredo,What's the route to Segafredo's place?
+Segafredo,Show me the path to Segafredo's spot.
+Segafredo,Lead me to the Segafredo destination.
+Segafredo,"I need Segafredo, can you guide me?"
+Segafredo,Take me to the closest Segafredo.
+Segafredo,Can you point me to Segafredo's location?
+Segafredo,What's the way to Segafredo's spot?
+Segafredo,Show me the route to Segafredo's place.
+Segafredo,"To Segafredo, please."
+Segafredo,I require assistance to Segafredo's position.
+Segafredo,Help me locate Segafredo.
+Segafredo,Guide me to the Segafredo spot.
+Segafredo,Lead me to Segafredo's place.
+Segafredo,Where's Segafredo situated?
+Segafredo,Take me to the nearest Segafredo.
+Segafredo,Direct me to Segafredo's position.
+Segafredo,Can you help me find the way to Segafredo?
+Robotics Lab,Where's the Robotics Lab located?
+Robotics Lab,Take me to the Robotics Lab's position.
+Robotics Lab,Guide me to the Robotics Lab spot.
+Robotics Lab,Lead me to the Robotics Lab's place.
+Robotics Lab,"I'm looking for the Robotics Lab, can you help?"
+Robotics Lab,Direct me to the Robotics Lab destination.
+Robotics Lab,What's the way to the Robotics Lab?
+Robotics Lab,Show me the path to the Robotics Lab's location.
+Robotics Lab,"To the Robotics Lab, please."
+Robotics Lab,I need assistance to find the Robotics Lab.
+Robotics Lab,Can you point me to the Robotics Lab?
+Robotics Lab,Where can I find the Robotics Lab around here?
+Robotics Lab,"Help me locate the Robotics Lab, please."
+Robotics Lab,Lead the way to the Robotics Lab.
+Robotics Lab,Can you guide me to the Robotics Lab's spot?
+Robotics Lab,What's the direction to the Robotics Lab?
+Robotics Lab,I require assistance to the Robotics Lab's place.
+Robotics Lab,Show me the route to the Robotics Lab.
+Robotics Lab,Take me to the Robotics Lab destination.
+Robotics Lab,Lead me to the closest Robotics Lab.
+Robotics Lab,"I need to reach the Robotics Lab, can you assist?"
+Robotics Lab,"Robotics Lab, I need your guidance."
+Robotics Lab,Show me the way to the Robotics Lab's position.
+Robotics Lab,What's the way to the Robotics Lab's place?
+Robotics Lab,Can you help me find the way to the Robotics Lab?
+Robotics Lab,Take me to the Robotics Lab's spot.
+Robotics Lab,Guide me to the Robotics Lab's location.
+Robotics Lab,Direct me to the nearest Robotics Lab.
+Robotics Lab,Help me find the Robotics Lab.
+Robotics Lab,"To the closest Robotics Lab, please."
+Robotics Lab,Lead me to the Robotics Lab's position.
+Robotics Lab,I need to go to the Robotics Lab.
+Robotics Lab,Can you assist me in finding the Robotics Lab?
+Robotics Lab,What's the route to the Robotics Lab's place?
+Robotics Lab,Show me the path to the Robotics Lab's spot.
+Robotics Lab,Lead me to the Robotics Lab destination.
+Robotics Lab,"I need the Robotics Lab, can you guide me?"
+Robotics Lab,Take me to the closest Robotics Lab.
+Robotics Lab,Can you point me to the Robotics Lab's location?
+Robotics Lab,What's the way to the Robotics Lab's spot?
+Robotics Lab,Show me the route to the Robotics Lab's place.
+Robotics Lab,"To the Robotics Lab, please."
+Robotics Lab,I require assistance to the Robotics Lab's position.
+Robotics Lab,Help me locate the Robotics Lab.
+Robotics Lab,Guide me to the Robotics Lab spot.
+Robotics Lab,Lead me to the Robotics Lab's place.
+Robotics Lab,Where's the Robotics Lab situated?
+Robotics Lab,Take me to the nearest Robotics Lab.
+Robotics Lab,Direct me to the Robotics Lab's position.
+Robotics Lab,Can you help me find the way to the Robotics Lab?
+Prince Turki Center,Where's the Prince Turki Center located?
+Prince Turki Center,Take me to the Prince Turki Center's position.
+Prince Turki Center,Guide me to the Prince Turki Center spot.
+Prince Turki Center,Lead me to the Prince Turki Center's place.
+Prince Turki Center,"I'm looking for the Prince Turki Center, can you help?"
+Prince Turki Center,Direct me to the Prince Turki Center destination.
+Prince Turki Center,What's the way to the Prince Turki Center?
+Prince Turki Center,Show me the path to the Prince Turki Center's location.
+Prince Turki Center,"To the Prince Turki Center, please."
+Prince Turki Center,I need assistance to find the Prince Turki Center.
+Prince Turki Center,Can you point me to the Prince Turki Center?
+Prince Turki Center,Where can I find the Prince Turki Center around here?
+Prince Turki Center,"Help me locate the Prince Turki Center, please."
+Prince Turki Center,Lead the way to the Prince Turki Center.
+Prince Turki Center,Can you guide me to the Prince Turki Center's spot?
+Prince Turki Center,What's the direction to the Prince Turki Center?
+Prince Turki Center,I require assistance to the Prince Turki Center's place.
+Prince Turki Center,Show me the route to the Prince Turki Center.
+Prince Turki Center,Take me to the Prince Turki Center destination.
+Prince Turki Center,Lead me to the closest Prince Turki Center.
+Prince Turki Center,"I need to reach the Prince Turki Center, can you assist?"
+Prince Turki Center,"Prince Turki Center, I need your guidance."
+Prince Turki Center,Show me the way to the Prince Turki Center's position.
+Prince Turki Center,What's the way to the Prince Turki Center's place?
+Prince Turki Center,Can you help me find the way to the Prince Turki Center?
+Prince Turki Center,Take me to the Prince Turki Center's spot.
+Prince Turki Center,Guide me to the Prince Turki Center's location.
+Prince Turki Center,Direct me to the nearest Prince Turki Center.
+Prince Turki Center,Help me find the Prince Turki Center.
+Prince Turki Center,"To the closest Prince Turki Center, please."
+Prince Turki Center,Lead me to the Prince Turki Center's position.
+Prince Turki Center,I need to go to the Prince Turki Center.
+Prince Turki Center,Can you assist me in finding the Prince Turki Center?
+Prince Turki Center,What's the route to the Prince Turki Center's place?
+Prince Turki Center,Show me the path to the Prince Turki Center's spot.
+Prince Turki Center,Lead me to the Prince Turki Center destination.
+Prince Turki Center,"I need the Prince Turki Center, can you guide me?"
+Prince Turki Center,Take me to the closest Prince Turki Center.
+Prince Turki Center,Can you point me to the Prince Turki Center's location?
+Prince Turki Center,What's the way to the Prince Turki Center's spot?
+Prince Turki Center,Show me the route to the Prince Turki Center's place.
+Prince Turki Center,"To the Prince Turki Center, please."
+Prince Turki Center,I require assistance to the Prince Turki Center's position.
+Prince Turki Center,Help me locate the Prince Turki Center.
+Prince Turki Center,Guide me to the Prince Turki Center spot.
+Prince Turki Center,Lead me to the Prince Turki Center's place.
+Prince Turki Center,Where's the Prince Turki Center situated?
+Prince Turki Center,Take me to the nearest Prince Turki Center.
+Prince Turki Center,Direct me to the Prince Turki Center's position.
+Prince Turki Center,Can you help me find the way to the Prince Turki Center?
+Sports Center,Where's the Sports Center located?
+Sports Center,Take me to the Sports Center's position.
+Sports Center,Guide me to the Sports Center spot.
+Sports Center,Lead me to the Sports Center's place.
+Sports Center,"I'm looking for the Sports Center, can you help?"
+Sports Center,Direct me to the Sports Center destination.
+Sports Center,What's the way to the Sports Center?
+Sports Center,Show me the path to the Sports Center's location.
+Sports Center,"To the Sports Center, please."
+Sports Center,I need assistance to find the Sports Center.
+Sports Center,Can you point me to the Sports Center?
+Sports Center,Where can I find the Sports Center around here?
+Sports Center,"Help me locate the Sports Center, please."
+Sports Center,Lead the way to the Sports Center.
+Sports Center,Can you guide me to the Sports Center's spot?
+Sports Center,What's the direction to the Sports Center?
+Sports Center,I require assistance to the Sports Center's place.
+Sports Center,Show me the route to the Sports Center.
+Sports Center,Take me to the Sports Center destination.
+Sports Center,Lead me to the closest Sports Center.
+Sports Center,"I need to reach the Sports Center, can you assist?"
+Sports Center,"Sports Center, I need your guidance."
+Sports Center,Show me the way to the Sports Center's position.
+Sports Center,What's the way to the Sports Center's place?
+Sports Center,Can you help me find the way to the Sports Center?
+Sports Center,Take me to the Sports Center's spot.
+Sports Center,Guide me to the Sports Center's location.
+Sports Center,Direct me to the nearest Sports Center.
+Sports Center,Help me find the Sports Center.
+Sports Center,"To the closest Sports Center, please."
+Sports Center,Lead me to the Sports Center's position.
+Sports Center,I need to go to the Sports Center.
+Sports Center,Can you assist me in finding the Sports Center?
+Sports Center,What's the route to the Sports Center's place?
+Sports Center,Show me the path to the Sports Center's spot.
+Sports Center,Lead me to the Sports Center destination.
+Sports Center,"I need the Sports Center, can you guide me?"
+Sports Center,Take me to the closest Sports Center.
+Sports Center,Can you point me to the Sports Center's location?
+Sports Center,What's the way to the Sports Center's spot?
+Sports Center,Show me the route to the Sports Center's place.
+Sports Center,"To the Sports Center, please."
+Sports Center,I require assistance to the Sports Center's position.
+Sports Center,Help me locate the Sports Center.
+Sports Center,Guide me to the Sports Center spot.
+Sports Center,Lead me to the Sports Center's place.
+Sports Center,Where's the Sports Center situated?
+Sports Center,Take me to the nearest Sports Center.
+Sports Center,Direct me to the Sports Center's position.
+Sports Center,Can you help me find the way to the Sports Center?
+Sports Center,Where's the Gym located?
+Sports Center,Take me to the Gym's position.
+Sports Center,Guide me to the Gym spot.
+Sports Center,Lead me to the Gym's place.
+Sports Center,"I'm looking for the Gym, can you help?"
+Sports Center,Direct me to the Gym destination.
+Sports Center,What's the way to the Gym?
+Sports Center,Show me the path to the Gym's location.
+Sports Center,"To the Gym, please."
+Sports Center,I need assistance to find the Gym.
+Sports Center,Can you point me to the Gym?
+Sports Center,Where can I find the Gym around here?
+Sports Center,"Help me locate the Gym, please."
+Sports Center,Lead the way to the Gym.
+Sports Center,Can you guide me to the Gym's spot?
+Sports Center,What's the direction to the Gym?
+Sports Center,I require assistance to the Gym's place.
+Sports Center,Show me the route to the Gym.
+Sports Center,Take me to the Gym destination.
+Sports Center,Lead me to the closest Gym.
+Sports Center,"I need to reach the Gym, can you assist?"
+Sports Center,"Gym, I need your guidance."
+Sports Center,Show me the way to the Gym's position.
+Sports Center,What's the way to the Gym's place?
+Sports Center,Can you help me find the way to the Gym?
+Sports Center,Take me to the Gym's spot.
+Sports Center,Guide me to the Gym's location.
+Sports Center,Direct me to the nearest Gym.
+Sports Center,Help me find the Gym.
+Sports Center,"To the closest Gym, please."
+Sports Center,Lead me to the Gym's position.
+Sports Center,I need to go to the Gym.
+Sports Center,Can you assist me in finding the Gym?
+Sports Center,What's the route to the Gym's place?
+Sports Center,Show me the path to the Gym's spot.
+Sports Center,Lead me to the Gym destination.
+Sports Center,"I need the Gym, can you guide me?"
+Sports Center,Take me to the closest Gym.
+Sports Center,Can you point me to the Gym's location?
+Sports Center,What's the way to the Gym's spot?
+Sports Center,Show me the route to the Gym's place.
+Sports Center,"To the Gym, please."
+Sports Center,I require assistance to the Gym's position.
+Sports Center,Help me locate the Gym.
+Sports Center,Guide me to the Gym spot.
+Sports Center,Lead me to the Gym's place.
+Sports Center,Where's the Gym situated?
+Sports Center,Take me to the nearest Gym.
+Sports Center,Direct me to the Gym's position.
+Sports Center,Can you help me find the way to the Gym?
